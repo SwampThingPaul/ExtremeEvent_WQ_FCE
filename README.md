@@ -6,7 +6,7 @@ Repository is currently under developement.
 
 # A tale of two storms: effects of sea level rise and pre-existing conditions on biogeochemical response to tropical storms.  
 
-*Running Title:* Hurricane influence on landscape biogeochemistry 
+**Running Title:** Hurricane influence on landscape biogeochemistry 
 
 ## Abstract
 
@@ -14,22 +14,22 @@ Hurricanes and tropical storms are high-energy episodic disturbances that have t
 
 ## Team members
 
-*In no particular order*
+**In no particular order**
 
-[Paul Julian II](mailto:pjulian@ufl.edu)^1^
-[Evelyn E. Gaiser](mailto:gaisere@fiu.edu)^2^
-[John S Kominoski](jkominos@fiu.edu)^2^
-[Edward Castaneda](ecastane@fiu.edu)^2^
-[Tiffany G. Troxler](troxlert@fiu.edu)^2^
-[Stephen Davis](sdavis@evergladesfoundation.org)^3^
-[Christopher Osburn](closburn@ncsu.edu)^4^ 
+[Paul Julian II](mailto:pjulian@ufl.edu)<sup>1</sup>
+[Evelyn E. Gaiser](mailto:gaisere@fiu.edu)<sup>2</sup>
+[John S Kominoski](jkominos@fiu.edu)<sup>2</sup>
+[Edward Castaneda](ecastane@fiu.edu)<sup>2</sup>
+[Tiffany G. Troxler](troxlert@fiu.edu)<sup>2</sup>
+[Stephen Davis](sdavis@evergladesfoundation.org)<sup>3</sup>
+[Christopher Osburn](closburn@ncsu.edu)<sup>4</sup> 
 
 ^1^Whitney Marine Lab for Marine Bioscience, University of Florida, St. Augustine, Florida USA.
 
-^2^Department of Biological Sciences & Southeast Environmental Research Center, Florida International University, Miami, Florida USA.
+<sup>2</sup>Department of Biological Sciences & Southeast Environmental Research Center, Florida International University, Miami, Florida USA.
 
-^3^The Everglades Foundation, Palmetto Bay, Florida USA.
+<sup>3</sup>The Everglades Foundation, Palmetto Bay, Florida USA.
 
-^4^North Carolina State University, Raleigh, North Carolina USA.
+<sup>4</sup>North Carolina State University, Raleigh, North Carolina USA.
 
 ***

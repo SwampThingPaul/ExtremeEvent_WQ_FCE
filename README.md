@@ -16,18 +16,12 @@ Hurricanes and tropical storms are high-energy episodic disturbances that have t
 
 **In no particular order**
 
-[Paul Julian II](mailto:pjulian@ufl.edu)<sup>1</sup>
-
-[Evelyn E. Gaiser](mailto:gaisere@fiu.edu)<sup>2</sup>
-
-[John S Kominoski](jkominos@fiu.edu)<sup>2</sup>
-
-[Edward Castaneda](ecastane@fiu.edu)<sup>2</sup>
-
-[Tiffany G. Troxler](troxlert@fiu.edu)<sup>2</sup>
-
-[Stephen Davis](sdavis@evergladesfoundation.org)<sup>3</sup>
-
+[Paul Julian II](mailto:pjulian@ufl.edu)<sup>1</sup>, 
+[Evelyn E. Gaiser](mailto:gaisere@fiu.edu)<sup>2</sup>, 
+[John S Kominoski](jkominos@fiu.edu)<sup>2</sup>, 
+[Edward Castaneda](ecastane@fiu.edu)<sup>2</sup>, 
+[Tiffany G. Troxler](troxlert@fiu.edu)<sup>2</sup>, 
+[Stephen Davis](sdavis@evergladesfoundation.org)<sup>3</sup>, 
 [Christopher Osburn](closburn@ncsu.edu)<sup>4</sup> 
 
 <sup>1</sup>Whitney Marine Lab for Marine Bioscience, University of Florida, St. Augustine, Florida USA.

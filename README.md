@@ -2,6 +2,8 @@ Project related information to evaluate water quality in response to extreme eve
 
 Repository is currently under developement.
 
+For consideration in special issue of Frontiers Research Topics regarding [*effects of extreme weather events on coastal carbon and nutrient cycling*](https://www.frontiersin.org/research-topics/9068/effects-of-extreme-weather-events-on-coastal-carbon-and-nutrient-cycling).
+
 ***
 
 # A tale of two storms: effects of sea level rise and pre-existing conditions on biogeochemical response to tropical storms.  

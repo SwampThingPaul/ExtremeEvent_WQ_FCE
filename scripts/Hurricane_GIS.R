@@ -50,6 +50,8 @@ GIS.path.gen="D:/_GISData"
 nad83.pro=CRS("+init=epsg:4269")
 utm17=CRS("+proj=utm +zone=17 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs")
 
+
+#shell.exec(system.file(getwd()))
 # Hurricane_TropcialStorm -------------------------------------------------
 library(HURDAT)
 
@@ -121,3 +123,28 @@ plot(subset(hur.tck,Key%in%c("AL112017","AL252005")),add=T)
 
 tmap_mode("view")
 tm_shape(Irma_Wilma)+tm_lines(col="Name",lwd=5)
+
+tmap_mode("plot")
+
+
+##
+# Other Shapefiles
+ogrListLayers(paste0(GIS.path.gen,"/SFER_GIS_Geodatabase.gdb"));
+
+enp=readOGR(GIS.path,"ENP_boundary")
+plot(enp)
+
+enp.shoreline=readOGR(GIS.path,"ENP_shoreline")
+plot(enp.shoreline)
+
+fce.sites=readOGR(GIS.path,"ltersites_utm")
+plot(fce.sites,add=T,pch=21,bg="red")
+
+sfwmd.mon=readOGR(paste0(GIS.path.gen,"/SFWMD_Monitoring_20180829"),"Environmental_Monitoring_Stations")
+head(sfwmd.mon)
+sfwmd.mon.stage=subset(sfwmd.mon,ACTIVITY_S=="Stage"&STATUS=="Active")
+
+tmap_mode("view")
+tm_shape(enp)+tm_borders(col="red",lwd=2)+
+  tm_shape(fce.sites)+tm_dots(col="dodgerblue1")+
+  tm_shape(sfwmd.mon.stage)+tm_dots(col="indianred1")

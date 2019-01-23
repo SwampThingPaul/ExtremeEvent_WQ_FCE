@@ -1,0 +1,449 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20060324</CreaDate>
+		<CreaTime>14395700</CreaTime>
+		<SyncOnce>FALSE</SyncOnce>
+		<SyncDate>20060324</SyncDate>
+		<SyncTime>14481300</SyncTime>
+		<ModDate>20060324</ModDate>
+		<ModTime>14503000</ModTime>
+		<MetaID>{74707466-A1D2-47AE-8D5D-00721BBE5225}</MetaID></Esri>
+	<idinfo>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.0.0.535</native>
+		<descript>
+			<langdata Sync="TRUE">en</langdata>
+			<abstract>The Florida Coastal Everglades LTER sites dataset includes points for all of the Florida Coastal Everglades LTER sites.</abstract>
+			<purpose>The Florida Coastal Everglades LTER sites dataset was created in August 2003 to represent the locations of all of the FCE LTER sites.  The dataset was updated in June 2005 to include SRS-1c and in March 2006 to include SRS-1d.</purpose>
+		</descript>
+		<citation>
+			<citeinfo>
+				<origin>Florida Coastal Everglades LTER</origin>
+				<pubdate>March 2006</pubdate>
+				<title>Florida Coastal Everglades LTER Sites</title>
+				<ftname Sync="TRUE">ltersites_utm</ftname>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>http://fcelter.fiu.edu/gis/everglades-map/layer_info.htm?layer=ltersites</onlink></citeinfo>
+		</citation>
+		<timeperd>
+			<current>ground condition</current>
+			<timeinfo>
+				<rngdates>
+					<begdate>August 11, 2003</begdate>
+					<enddate>January 5, 2006</enddate>
+				</rngdates>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-81.078204</westbc>
+				<eastbc Sync="TRUE">-80.487313</eastbc>
+				<northbc Sync="TRUE">25.761707</northbc>
+				<southbc Sync="TRUE">24.912079</southbc>
+			</bounding>
+			<lboundng>
+				<leftbc Sync="TRUE">492157.839277</leftbc>
+				<rightbc Sync="TRUE">551412.406015</rightbc>
+				<bottombc Sync="TRUE">2755308.639222</bottombc>
+				<topbc Sync="TRUE">2849294.816542</topbc>
+			</lboundng>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekey>Florida Coastal Everglades</themekey>
+				<themekt>none</themekt>
+				<themekey>LTER</themekey>
+				<themekey>SRS</themekey>
+				<themekey>Shark River Slough</themekey>
+				<themekey>TS/Ph</themekey>
+				<themekey>Taylor Slough</themekey>
+				<themekey>Panhandle</themekey>
+			</theme>
+			<temporal>
+				<tempkey>August 2003</tempkey>
+				<tempkey>December 2004</tempkey></temporal>
+			<place>
+				<placekey>Everglades</placekey>
+				<placekey>Florida</placekey>
+				<placekey>Florida Coastal Everglades</placekey>
+				<placekey>LTER</placekey>
+			</place>
+		</keywords>
+		<accconst>none</accconst>
+		<useconst>none</useconst>
+		<natvform Sync="TRUE">Shapefile</natvform>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Timothy Russell</cntper>
+					<cntorg>College of William &amp; Mary</cntorg>
+				</cntperp>
+				<cntpos>Lab Specialist IV/ GIS Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<city>Williamsburg</city>
+					<state>VA</state>
+					<postal>23187</postal>
+					<country>USA</country>
+					<address>Keck Lab</address>
+					<address>College of William &amp; Mary</address>
+					<address>Wake Drive, Room 106</address>
+				</cntaddr>
+				<cntvoice>757-221-5074</cntvoice>
+				<cntfax>757-221-5076</cntfax>
+			</cntinfo>
+		</ptcontac>
+		<datacred>Tim Russell (College of William &amp; Mary) and the Florida Coastal Everglades LTER</datacred>
+	</idinfo>
+	<dataIdInfo>
+		<envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.0.0.535</envirDesc>
+		<dataLang>
+			<languageCode Sync="TRUE" value="en"></languageCode>
+		</dataLang>
+		<idCitation>
+			<resTitle Sync="TRUE">ltersites_utm</resTitle>
+			<presForm>
+				<PresFormCd Sync="TRUE" value="005"></PresFormCd>
+			</presForm>
+		</idCitation>
+		<spatRpType>
+			<SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd>
+		</spatRpType>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox esriExtentType="native">
+					<westBL Sync="TRUE">492157.839277</westBL>
+					<eastBL Sync="TRUE">551412.406015</eastBL>
+					<northBL Sync="TRUE">2849294.816542</northBL>
+					<southBL Sync="TRUE">2755308.639222</southBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+		<geoBox esriExtentType="decdegrees">
+			<westBL Sync="TRUE">-81.078204</westBL>
+			<eastBL Sync="TRUE">-80.487313</eastBL>
+			<northBL Sync="TRUE">25.761707</northBL>
+			<southBL Sync="TRUE">24.912079</southBL>
+			<exTypeCode Sync="TRUE">1</exTypeCode>
+		</geoBox>
+	</dataIdInfo>
+	<metainfo>
+		<langmeta Sync="TRUE">en</langmeta>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metc>
+			<metc>
+				<cntinfo>
+					<cntperp>
+						<cntper>Mike Rugge</cntper>
+						<cntorg>Florida Coastal Everglades LTER</cntorg>
+					</cntperp>
+					<cntaddr>
+						<addrtype>mailing address</addrtype>
+						<address>Southeast Environmental Research Center</address>
+						<address>Florida International University</address>
+						<address>University Park, OE 148</address>
+						<city>Miami</city>
+						<state>FL</state>
+						<postal>33199</postal>
+						<country>USA</country>
+					</cntaddr>
+					<cntvoice>(305) 348-6054</cntvoice>
+				</cntinfo>
+			</metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Mike Rugge</cntper>
+					<cntorg>Florida Coastal Everglades LTER</cntorg>
+				</cntperp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>Southeast Environmental Research Center</address>
+					<address>Florida International University</address>
+					<address>University Park, OE 148</address>
+					<city>Miami</city>
+					<state>FL</state>
+					<postal>33199</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(305) 348-6054</cntvoice>
+			</cntinfo>
+		</metc>
+		<metd Sync="TRUE">20060324</metd>
+		<metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<mdLang>
+		<languageCode Sync="TRUE" value="en"></languageCode>
+	</mdLang>
+	<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+	<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+	<mdChar>
+		<CharSetCd Sync="TRUE" value="004"></CharSetCd>
+	</mdChar>
+	<mdHrLv>
+		<ScopeCd Sync="TRUE" value="005"></ScopeCd>
+	</mdHrLv>
+	<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+	<distinfo>
+		<resdesc Sync="TRUE">Downloadable Data</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">0.001</transize>
+					<dssize Sync="TRUE">0.001</dssize>
+				</digtinfo>
+			</digform>
+		</stdorder>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Florida Coastal Everglades LTER</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<city>Miami</city>
+					<state>FL</state>
+					<postal>33199</postal>
+					<country>USA</country>
+					<address>Southeast Environmental Research Center</address>
+					<address>Florida International University</address>
+					<address>University Park, OE 148</address>
+				</cntaddr>
+				<cntvoice>(305) 348-6054</cntvoice>
+			</cntinfo>
+		</distrib>
+		<distliab>Complete accuracy of data sets cannot be guaranteed. All data are made available "as is". The Florida Coastal Everglades LTER shall not be liable for damages resulting from any use or misinterpretation of data sets.</distliab>
+	</distinfo>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<esriterm Name="ltersites_utm">
+				<efeatyp Sync="TRUE">Simple</efeatyp>
+				<efeageom Sync="TRUE">Point</efeageom>
+				<esritopo Sync="TRUE">FALSE</esritopo>
+				<efeacnt Sync="TRUE">24</efeacnt>
+				<spindex Sync="TRUE">TRUE</spindex>
+				<linrefer Sync="TRUE">FALSE</linrefer>
+			</esriterm>
+			<sdtsterm Name="ltersites_utm">
+				<sdtstype Sync="TRUE">Entity point</sdtstype>
+				<ptvctcnt Sync="TRUE">24</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<cordsysn>
+				<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+				<projcsn Sync="TRUE">WGS_1984_UTM_Zone_17N</projcsn>
+			</cordsysn>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<plandu Sync="TRUE">meters</plandu>
+					<coordrep>
+						<absres Sync="TRUE">0.000256</absres>
+						<ordres Sync="TRUE">0.000256</ordres>
+					</coordrep>
+				</planci>
+				<gridsys><gridsysn Sync="TRUE">Universal Transverse Mercator</gridsysn><utm><utmzone Sync="TRUE">17</utmzone><transmer><sfctrmer Sync="TRUE">0.999600</sfctrmer><longcm Sync="TRUE">-81.000000</longcm><latprjo Sync="TRUE">0.000000</latprjo><feast Sync="TRUE">500000.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></transmer></utm></gridsys></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">D_WGS_1984</horizdn>
+				<ellips Sync="TRUE">WGS_1984</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257224</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<refSysInfo>
+		<RefSystem>
+			<refSysID>
+				<identCode Sync="TRUE">WGS_1984_UTM_Zone_17N</identCode>
+			</refSysID>
+		</RefSystem>
+	</refSysInfo>
+	<spatRepInfo>
+		<VectSpatRep>
+			<topLvl>
+				<TopoLevCd Sync="TRUE" value="001"></TopoLevCd>
+			</topLvl>
+			<geometObjs Name="ltersites_utm"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">24</geoObjCnt></geometObjs></VectSpatRep>
+	</spatRepInfo>
+	<eainfo>
+		<detailed Name="ltersites_utm">
+			<enttyp>
+				<enttypl Sync="TRUE">ltersites_utm</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+				<enttypc Sync="TRUE">24</enttypc>
+			</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attalias Sync="TRUE">FID</attalias>
+				<attrtype Sync="TRUE">OID</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attalias Sync="TRUE">Shape</attalias>
+				<attrtype Sync="TRUE">Geometry</attrtype>
+				<attwidth Sync="TRUE">0</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">SITE</attrlabl>
+				<attalias Sync="TRUE">SITE</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">30</attwidth>
+				<attrdef>FCE LTER site names</attrdef>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">MAX_PDOP</attrlabl>
+				<attalias Sync="TRUE">MAX_PDOP</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">8</attwidth>
+				<atnumdec Sync="TRUE">1</atnumdec>
+				<attrdef>Maximum position dilution of precision (PDOP)</attrdef>
+				<attrdomv>
+					<rdom>
+						<rdommin>2.4</rdommin>
+						<rdommax>5.9</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">CORR_TYPE</attrlabl>
+				<attalias Sync="TRUE">CORR_TYPE</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">36</attwidth>
+				<attrdef>Correction type</attrdef>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">GPS_DATE</attrlabl>
+				<attalias Sync="TRUE">GPS_DATE</attalias>
+				<attrtype Sync="TRUE">Date</attrtype>
+				<attwidth Sync="TRUE">8</attwidth>
+				<attrdef>Date the coordinates were recorded</attrdef>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">GPS_TIME</attrlabl>
+				<attalias Sync="TRUE">GPS_TIME</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdef>Time the coordinates were recorded</attrdef>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">DATAFILE</attrlabl>
+				<attalias Sync="TRUE">DATAFILE</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">20</attwidth>
+				<attrdef>Name of GPS point file from Pathfinder Office</attrdef>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">UNFILT_POS</attrlabl>
+				<attalias Sync="TRUE">UNFILT_POS</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdef>Number of unfiltered positions recorded</attrdef>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">POINT_ID</attrlabl>
+				<attalias Sync="TRUE">POINT_ID</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<attrdef>Numbers to allow sites to be ordered from SRS 1a (1) to TSPh 11 (22)</attrdef>
+				<atnumdec Sync="TRUE">6</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">LOCATION_A</attrlabl>
+				<attalias Sync="TRUE">LOCATION_A</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<attrdef>Description of the location where positions were recorded at each site</attrdef>
+				<atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">STD_DEV</attrlabl>
+				<attalias Sync="TRUE">STD_DEV</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atnumdec Sync="TRUE">9</atnumdec>
+				<attrdef>Standard deviation</attrdef>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">HORZ_PREC</attrlabl>
+				<attalias Sync="TRUE">HORZ_PREC</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atnumdec Sync="TRUE">9</atnumdec>
+				<attrdef>Horizontal precision</attrdef>
+			</attr>
+			<attr><attrlabl Sync="TRUE">LATITUDE</attrlabl><attalias Sync="TRUE">LATITUDE</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth></attr><attr><attrlabl Sync="TRUE">LONGITUDE</attrlabl><attalias Sync="TRUE">LONGITUDE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth></attr></detailed>
+	</eainfo>
+	<mdDateSt Sync="TRUE">20060324</mdDateSt>
+	<dataqual>
+		<lineage>
+			<procstep>
+				<procdesc>GPS coordinates were recorded at all FCE LTER sites except SRS 1c using a GeoExplorer 3.  At each site, the GPS unit recorded 93-104 positions,  horizontal precision, and maximum PDOP.  The average position was differentially corrected at all sites except SRS 1a, SRS 1c and SRS 2.  A point shapefile of the site locations was created from the coordinates using Pathfinder Office.</procdesc>
+				<procdate>January 2003</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Timothy Russell</cntper>
+							<cntorg>College of William &amp; Mary</cntorg>
+						</cntperp>
+						<cntpos>Lab Specialist IV/ GIS Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<city>Williamsburg</city>
+							<state>VA</state>
+							<postal>23187</postal>
+							<country>USA</country>
+							<address>Keck Lab</address>
+							<address>College of William &amp; Mary</address>
+							<address>Wake Drive, Room 106</address>
+						</cntaddr>
+						<cntvoice>757-221-5074</cntvoice>
+						<cntfax>757-221-5076</cntfax>
+					</cntinfo>
+				</proccont>
+				<procsv>Pathfinder Office</procsv>
+			</procstep>
+			<procstep><procdesc>GPS coordinates were recorded at SRS 1c on December 1, 2004.  The GPS unit used to record the coordinates and the accuracy of the coordinates are unknown.  The coordinates were converted from decimal degrees to UTM and added to the dbf table of site coordinates collected in August 2003.  A new shapefile of all of FCE LTER site coordinates was created using ArcView 3.3 and ArcMap 9.</procdesc><procdate>December 1, 2004 and June 14, 2005</procdate><proccont><cntinfo><cntperp><cntper>Mike Rugge</cntper><cntorg>Florida Coastal Everglades LTER</cntorg></cntperp><cntpos>Program Manager</cntpos><cntvoice>(305) 348-6054</cntvoice><cntfax>(305) 348-4096</cntfax><cntaddr><address>Southeast Environmental Research Center</address><address>Florida International University</address><addrtype>mailing address</addrtype><address>University Park, OE 148</address><city>Miami</city><state>FL</state><postal>33199</postal><country>USA</country></cntaddr></cntinfo></proccont></procstep><procstep><procdesc>GPS coordinates were recorded at SRS 1d on January 5, 2006.  A Garmin eTrex Legend GPS unit was used to record the coordinates, but the accuracy of the coordinates was not recorded .  The coordinates were added to the dbf table of site coordinates collected in August 2003.  A new shapefile of all of FCE LTER site coordinates was created using ArcMap 9.</procdesc><proccont><cntinfo><cntaddr><address>Southeast Environmental Research Center</address><address>Florida International University</address><addrtype>mailing address</addrtype><address>University Park, OE 148</address><city>Miami</city><state>FL</state><postal>33199</postal><country>USA</country></cntaddr><cntperp><cntper>Mike Rugge</cntper><cntorg>Florida Coastal Everglades LTER</cntorg></cntperp><cntpos>Program Manager</cntpos><cntvoice>(305) 348-6054</cntvoice><cntfax>(305) 348-4096</cntfax></cntinfo></proccont><procdate>January 5, 2006 and March 24, 2006</procdate></procstep></lineage>
+		<posacc>
+			<horizpa>
+				<horizpar>Horizontal precision ranged from 0.838 to 1.572 for sites with differentially corrected coordinates (SRS 1b, SRS 3-6, all TS/Ph sites) .  Uncorrected site coordinates (SRS 1a, SRS 2) had horizontal precision values of 5.811 and 5.769, respectively.  Horizontal precision is unknown for the SRS 1c coordinates recorded in December 2004 and the SRS 1d coordinates recorded in January 2006.</horizpar>
+			</horizpa>
+		</posacc>
+	</dataqual>
+	<distInfo>
+		<distributor>
+			<distorTran>
+				<onLineSrc>
+					<orDesc Sync="TRUE">002</orDesc>
+					<protocol Sync="TRUE">Local Area Network</protocol>
+					<linkage Sync="TRUE">file://\\MRUGGE\G$\web\databases\gis_public_datasets\ltersites_utm.shp</linkage></onLineSrc>
+				<transSize Sync="TRUE">0.001</transSize>
+			</distorTran>
+			<distorFormat>
+				<formatName Sync="TRUE">Shapefile</formatName>
+			</distorFormat>
+		</distributor>
+	</distInfo>
+</metadata>

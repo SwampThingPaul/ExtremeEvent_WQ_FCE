@@ -72,17 +72,19 @@ auto.dat=rbind(grahl.auto,losada.auto,rondeau.auto,rubio.auto)
 rm(grahl.auto,losada.auto,rondeau.auto,rubio.auto)
 apply(auto.dat,2,range,na.rm=T)
 
-#sample check
-auto.dat2=data.frame()
-sites.val=ddply(auto.dat,c("SITENAME"),summarise,N.val=N(as.numeric(DATE)))
-for(i in 1:length(sites.val$SITENAME)){
-  tmp=subset(auto.dat,SITENAME==sites.val$SITENAME[i])
-  tmp$DATE.diff=c(NA,diff(tmp$DATE))
-  auto.dat2=rbind(auto.dat2,tmp)
-}
+ddply(auto.dat,c("SITENAME"),summarise,min.date=min(DATE),max.date=max(DATE))
 
-range(auto.dat2$DATE.diff,na.rm=T)
-subset(auto.dat2,DATE.diff>3)
+#sample check
+#auto.dat2=data.frame()
+#sites.val=ddply(auto.dat,c("SITENAME"),summarise,N.val=N(as.numeric(DATE)))
+#for(i in 1:length(sites.val$SITENAME)){
+#  tmp=subset(auto.dat,SITENAME==sites.val$SITENAME[i])
+#  tmp$DATE.diff=c(NA,diff(tmp$DATE))
+#  auto.dat2=rbind(auto.dat2,tmp)
+#}
+
+#range(auto.dat2$DATE.diff,na.rm=T)
+#subset(auto.dat2,DATE.diff>3)
 
 plot(TP~DATE,subset(auto.dat2,SITENAME=="SRS1d"),pch=19,col=adjustcolor("grey",0.25))
 plot(TP~DATE,subset(auto.dat,SITENAME=="SRS5"))

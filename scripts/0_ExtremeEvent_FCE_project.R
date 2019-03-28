@@ -111,18 +111,24 @@ analysis.periods=data.frame(DATE=c(analysis.period.pre.wilma,analysis.period.pos
 
 
 # Rainfall  ---------------------------------------------------------------
-#source(paste0(getwd(),"/scripts/1_ExtremeEvent_Rainfall.r"),echo=T)
+# code found in "/scripts/1_ExtremeEvent_Rainfall.r"
 
 
 # Water Level -------------------------------------------------------------
-#source(paste0(getwd(),"/scripts/2_ExtremeEvent_stage.r"),echo=T)
+# code found in "/scripts/2_ExtremeEvent_stage.r"
 
 
 # Weather Data ------------------------------------------------------------
-#source(paste0(getwd(),"/scripts/3_ExtremeEvent_weather.r"),echo=T)
+# code found in "/scripts/3_ExtremeEvent_weather.r"
 
 # Discharge & Load --------------------------------------------------------
-#source(paste0(getwd(),"/scripts/4_ExtremeEvent_flowload.r"),echo=T)
+# code found in "/scripts/4_ExtremeEvent_flowload.r"
 
-# Water Quality Analysis #1 -----------------------------------------------
-#source(paste0(getwd(),"/scripts/5_ExtremeEvent_WQEval.r"),echo=T)
+# Stoich ------------------------------------------------------------------
+# code found in "/scripts/5_ExtremeEvent_stoich.r"
+
+# BGChem CSF --------------------------------------------------------------
+# code found in "/scripts/6_ExtremeEvent_WQCSF.r"
+
+# PCA Exploratory analysis
+# code found in "/scripts/x_ExtremeEvent_PCA.r"
